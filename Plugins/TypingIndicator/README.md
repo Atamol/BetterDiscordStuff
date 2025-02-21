@@ -17,3 +17,9 @@ Just enable the options you want in the plugin settings and watch the indicators
 
 ## Download
 [Click here to download](https://betterdiscord.app/Download?id=196)
+
+---
+
+<a href="https://raw.githubusercontent.com/Atamol/BetterDiscordStuff/master/Plugins/TypingIndicator/TypingIndicator.plugin.js" download="TypingIndicator.plugin.js">
+  Click here to download
+</a>
