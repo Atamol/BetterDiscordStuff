@@ -23,7 +23,7 @@
 - ミュートされたチャンネルについては，`Include muted channels` オプションを有効にしている場合のみチェック対象となります
 
 
-## Download
+## ダウンロード
 [右クリックして保存](https://raw.githubusercontent.com/Atamol/BetterDiscordStuff/master/Plugins/TypingIndicator/TypingIndicator.plugin.js)
 
 ---
