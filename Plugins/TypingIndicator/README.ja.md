@@ -1,4 +1,4 @@
-[English version](https://github.com/Atamol/BetterDiscordStuff/blob/master/Plugins/TypingIndicator/README.en.md)
+[English version](https://github.com/Atamol/BetterDiscordStuff/blob/master/Plugins/TypingIndicator/README.en.md) / 日本語版
 
 ---
 
