@@ -1,4 +1,4 @@
-[日本語版](https://github.com/Atamol/BetterDiscordStuff/Plugins/TypingIndicator/README.ja.md)
+[日本語版](https://github.com/Atamol/BetterDiscordStuff/edit/master/Plugins/TypingIndicator/README.ja.md)
 
 ---
 
