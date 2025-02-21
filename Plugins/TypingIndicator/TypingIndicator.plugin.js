@@ -1,9 +1,9 @@
 /**
- * @fork          This is a fork of the original TypingIndicator plugin.
- * @forkRepo      https://github.com/Atamol/BetterDiscordStuff/blob/master/Plugins/TypingIndicator/TypingIndicator.plugin.js
+ * @fork          This is a fork of the original TypingIndicator plugin, updated and fixed to work with the latest Discord/BetterDiscord.
  * @forkWebsite   https://twitter.com/Atamol_rc
- * @forkAuthor    Atamol
+ * @forkRepo      https://github.com/Atamol/BetterDiscordStuff/blob/master/Plugins/TypingIndicator/TypingIndicator.plugin.js
  * @forkAuthorId  361086687234752514
+ * @forkAuthor    Atamol
  *
  * @name          TypingIndicator
  * @displayName   TypingIndicator
@@ -11,8 +11,8 @@
  * @source        https://github.com/l0c4lh057/BetterDiscordStuff/blob/master/Plugins/TypingIndicator/TypingIndicator.plugin.js
  * @patreon       https://www.patreon.com/l0c4lh057
  * @invite        YzzeuJPpyj
- * @authorId      226677096091484160, 917630027477159986, 933076363102007317
- * @author        l0c4lh057 , imafrogowo , davilarek
+ * @authorId      226677096091484160, 917630027477159986, 933076363102007317, 361086687234752514
+ * @author        l0c4lh057 , imafrogowo , davilarek, Atamol
  */
 
 module.exports = (() => {
@@ -25,12 +25,22 @@ module.exports = (() => {
                     github_username: "l0c4lh057",
                     twitter_username: "l0c4lh057",
                     discord_id: "226677096091484160"
+                },
+				{
+                    name: "Atamol",
+                    github_username: "Atamol",
+                    twitter_username: "Atamol_rc",
+                    discord_id: "361086687234752514"
                 }
             ],
             description: "Shows an indicator in the guild/channel list when someone is typing there",
             version: "0.5.5",
-            github: "https://github.com/l0c4lh057/BetterDiscordStuff/blob/master/Plugins/TypingIndicator/",
-            github_raw: "https://raw.githubusercontent.com/l0c4lh057/BetterDiscordStuff/master/Plugins/TypingIndicator/TypingIndicator.plugin.js"
+
+            github: "https://github.com/Atamol/BetterDiscordStuff/blob/master/Plugins/TypingIndicator/",
+			      // original github: https://github.com/l0c4lh057/BetterDiscordStuff/blob/master/Plugins/TypingIndicator/
+
+            github_raw: "https://raw.githubusercontent.com/Atamol/BetterDiscordStuff/master/Plugins/TypingIndicator/TypingIndicator.plugin.js"
+			      // original github_raw: https://raw.githubusercontent.com/l0c4lh057/BetterDiscordStuff/master/Plugins/TypingIndicator/TypingIndicator.plugin.js
         },
         defaultConfig: [
             {
