@@ -3,23 +3,24 @@ English Version / [日本語版](https://github.com/Atamol/BetterDiscordStuff/bl
 ---
 
 # TypingIndicator
-Adds a little indicator to your channel and guild lists whenever someone's typing!
+Adds an indicator to the channel and guild list when someone is typing there
 
 ![typingindicator](https://user-images.githubusercontent.com/42084688/123513299-c4c5e080-d68c-11eb-8021-f68e755561cd.gif)
 
+
 ## Usage
-Just enable whichever options you like in the plugin settings, and watch those indicators pop up.
+Just enable the options you want in the plugin settings and watch the indicators blink.
 
 ## Settings
+
 ### Show on channels
-- Puts a typing indicator in the channel list
+- Shows the indicator in the channel list
 
 ### Include muted channels
-- Also shows the indicator on muted channels
+- Shows the indicator in the channel list for muted channels
 
 ### Show on guilds
-- Shows a typing indicator on the guild icon if someone is typing in any of its channels
-- If you only want it for unmuted channels, keep `Include muted channels` turned off
+- Shows the indicator in the guild list when someone is typing in any of the channels. Muted channels are only checked when `Include muted channels` is enabled
 
 ## Download
 [Right-click here to download](https://raw.githubusercontent.com/Atamol/BetterDiscordStuff/master/Plugins/TypingIndicator/TypingIndicator.plugin.js)
